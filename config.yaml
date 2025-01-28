@@ -1,0 +1,10 @@
+credentials:
+  usernames:
+    admin:
+      email: admin@gmail.com
+      name: Admin User
+      password: "the_hashed_password_you_got_from_the_script"
+cookie:
+  expiry_days: 30
+  key: random_key_123
+  name: random_cookie_name
