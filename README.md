@@ -4,7 +4,7 @@ News Authenticity Classifier
 
 Overview
 
-The News Authenticity Classifier is an AI-powered tool designed to classify news articles as either real (credible) or fake (misleading). By leveraging state-of-the-art Natural Language Processing (NLP) techniques, this model analyzes the content of news articles to determine their authenticity. This project aims to help users identify misleading or false news in order to promote a more informed and responsible consumption of information.
+Verifact is an AI-powered tool designed to classify news articles as either real (credible) or fake (misleading). By leveraging state-of-the-art Natural Language Processing (NLP) techniques, this model analyzes the content of news articles to determine their authenticity. This project aims to help users identify misleading or false news in order to promote a more informed and responsible consumption of information.
 
 Features
 
