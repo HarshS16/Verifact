@@ -1,4 +1,5 @@
-# HIGH-PING
+# VERIFACT
+
 News Authenticity Classifier
 
 Overview
