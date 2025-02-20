@@ -17,15 +17,19 @@ To get started with the News Authenticity Classifier, follow these steps:
 1. Clone the repository
 bash
 Copy
+
 git clone https://github.com/yourusername/news-authenticity-classifier.git
+
 cd news-authenticity-classifier
 
-2. Install the dependencies
+3. Install the dependencies
 bash
 Copy
 pip install -r requirements.txt
 
-3. Download pre-trained models
+4. Download pre-trained models
+
+   
 Pre-trained models for text classification can be downloaded automatically when the application is run for the first time. Alternatively, you can manually download the model weights from [this link] and place them in the /models directory.
 
 Usage
